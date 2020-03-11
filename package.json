@@ -30,6 +30,6 @@
     "underscore": "~1.5.2",
     "glob": "~3.2.7",
     "mkdirp": "~0.3.5",
-    "update-notifier": "~0.1.7"
+    "update-notifier": "~2.0.0"
   }
 }
